@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+header, main {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button {
+    cursor: pointer;
+    padding: 5px;
+    width: 80px;
+}
